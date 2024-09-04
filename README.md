@@ -16,7 +16,7 @@ UGOT system version requirement 1.5.3.3 or above
 
 #### [**Reference code**](https://docs.ubtrobot.com/ugot/#/en-us/extension/case/EngineerVehicleCatchBall?id=reference-code)
 
-``` c++enter code here
+``` python
 from ugot import ugot
 import time
 
